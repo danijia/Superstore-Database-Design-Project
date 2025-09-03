@@ -1,0 +1,5 @@
+# Ignore the superstore SQLite database file
+*.db
+
+# Ignore CSVs
+data/*.csv
