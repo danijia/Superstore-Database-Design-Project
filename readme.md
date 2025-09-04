@@ -6,20 +6,18 @@ A full-cycle data project transforming the flat Superstore dataset into a normal
 
 ## Project Overview
 
-This project demonstrates core skills in data cleaning, normalization (1NF–3NF), database design, and SQL querying. The popular Superstore dataset was used to simulate real-world sales data across customers, orders, and products.
+This project demonstrates core skills in data cleaning with Python (pandas), normalization (1NF–3NF), database design, and SQL querying. The popular Superstore dataset was used to simulate real-world sales data across customers, orders, and products.
 
 
 
 ## Folder Structure
-
-Superstore/
-├── data/ # Raw and cleaned CSVs
-├── data_preprocessing/ # Python scripts to split and clean data
-├── designing/ # SQL schema (CREATE TABLE statements)
-├── normalizing/ # ER diagram & normalization notes
-├── sql_queries/ # SQL analysis queries
-├── db/ # SQLite database file
-└── README.md # Project overview (this file)
+ - data/ # Raw and cleaned CSV
+ - data_preprocessing/ # Python scripts to split and clean data
+ - designing/ # SQL schema (CREATE TABLE statements)
+ -  normalizing/ # ER diagram & normalization notes
+ -  sql_queries/ # SQL analysis queries
+ -  db/ # SQLite database file
+ README.md # Project overview (this file)
 
 ## Tech Stack
 
