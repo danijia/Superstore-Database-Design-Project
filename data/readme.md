@@ -16,8 +16,7 @@ This folder contains both the original and pre-processed data used in the Supers
 ## Data Source
 
 The original dataset was downloaded from:
-- Kaggle Superstore Dataset  
-- [Link](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+- [Kaggle Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 
 ## Data Cleaning Notes
@@ -40,4 +39,5 @@ Steps included:
 - The `superstore.csv` is kept for reference only. All analysis uses the cleaned, separated CSVs.
 - All fields such as `Sales`, `Quantity`, `Profit`, and `Discount` reflect transactional-level values.
 - Discounts are stored as decimals (e.g., `0.2` for 20%).
+
 
